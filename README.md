@@ -60,7 +60,7 @@ Para melhor visualização, seguem os prints das páginas desenvolvidas no Power
 
 <img width="1070" height="600" alt="Report_Page_Detalhes" src="https://github.com/user-attachments/assets/2c5d84b5-765d-42ce-aef1-5ba64ec9bffa" />
 
-### 📄 Página 3 – TOPN & Outiliers
+### 📄 Página 4 – TOPN & Outiliers
 <img width="1072" height="603" alt="Report_Page_TopN-Outiliers" src="https://github.com/user-attachments/assets/75dc7612-a096-488d-a1e7-af8d4792bec9" />
 
 ---
