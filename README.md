@@ -2,8 +2,12 @@
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Release](https://img.shields.io/badge/release-v1.0-blue)
-![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Progress](https://img.shields.io/badge/progresso-100%25-success)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/cristianorr38/Criando-Relatorio-Vendas-Lucros-Data-Analytics-Power-BI)](https://github.com/cristianorr38/Criando-Relatorio-Vendas-Lucros-Data-Analytics-Power-BI)
+![GitHub last commit](https://img.shields.io/github/last-commit/cristianorr38/Criando-Relatorio-Vendas-Lucros-Data-Analytics-Power-BI)
+![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Criando-Relatorio-Vendas-Lucros-Data-Analytics-Power-BI)
+![GitHub forks](https://img.shields.io/github/forks/cristianorr38/Criando-Relatorio-Vendas-Lucros-Data-Analytics-Power-BI)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 ---
 
@@ -36,7 +40,7 @@ O resultado final é um relatório interativo e estilizado, com navegação intu
 │   └── 📄 Report_Page_TopN-Outiliers.png
 │
 ├── 📂 docs
-│   └── 📄 Entendendo o Desafio.docx
+│   └── 📄 Instrucoes_Desenvolvimento.docx
 │
 └── 📄 README.md
 ```
